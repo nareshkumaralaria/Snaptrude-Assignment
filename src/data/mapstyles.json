@@ -1,0 +1,17 @@
+[
+    {
+    "Default" : "mapbox://styles/mapbox/streets-v12"
+},
+    {
+    "Satellite Streets": "mapbox://styles/sasoja1704/clfcfavj1003d01mxrbn42c9j"
+},
+    {
+    "Monochrome" : "mapbox://styles/sasoja1704/clfcfdd6p00gj01mrhzgileou"
+},
+    {
+    "Navigation" : "mapbox://styles/sasoja1704/clfcff3nw00gk01mrir2g92dd"
+},
+    {
+    "Outdoors" : "mapbox://styles/sasoja1704/clfcfgjds000i01mn9jqfb8gd"
+}
+]
