@@ -16,7 +16,7 @@
 ## Live Link
 
 For live preview you can visit this link
-https://snaptrude-assignment.netlify.app/
+https://snaptrude-private.vercel.app/
 
 ## Run Locally
 
